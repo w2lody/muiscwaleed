@@ -1,6 +1,6 @@
 token= NTk2NzExNjA3MDcwMDk3NDM4.XR9hCQ.qtS7tR1exYds9wF4ab7ns_VZw08
 owner= 522764310313697282 
-prefix= r
+prefix= l
 game= Relo,
 stayinchannel=true 
 songinstatus=false 
